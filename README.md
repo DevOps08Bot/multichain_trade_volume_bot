@@ -69,5 +69,5 @@ This dashboard manages multi‑wallet operations on BSC and ETH: Four.meme integ
 
 - Wallet DB private keys are encrypted with AES‑256‑GCM. The key entered in “Custom Transfer” is used in‑memory only for that single call.
 - Static preflight is used for contract calls; any revert reason is surfaced to the UI logs.
-- RPC erişim anahtarlarını `.env` dosyasında saklayın. Depoya koymayın.
-- Üretime almadan önce BSC/ETH test ağlarında (BSC Testnet / Sepolia) senaryolarınızı mutlaka deneyin.
+
+FOR MORE DETAILS - GET IN TOUCH VIA TG: [@](https://t.me/cryptoprof87)
